@@ -4,7 +4,7 @@
 <h1>
 Karina Martins 
 <h2>
-    <span> 👋Olá, universo tech! Aqui é a Kah! </span>
+    <span> 👋Olá, universo tech! Eu sou a Kah! </span>
 </h2>
 
 <p align="justify"> Dev Back-end sou de São Paulo-SP, Brasil, graduando em Gestão da Tecnologia da Informação na Universidade Cruzeiro do Sul. Meu primeiro “Hello World” foi à alguns anos atrás quando tive contato com HTML, CSS e um pouco de JavaScript e Notepad++.
