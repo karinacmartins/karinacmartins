@@ -1,4 +1,4 @@
-<img align="right" height="380" src="https://github.com/karinacmartins/karinacmartins/assets/131190006/eccfec51-91e3-44c0-a586-e155ff720b7f">
+<img align="right" height="380"  src="https://github.com/karinacmartins/karinacmartins/assets/131190006/eccfec51-91e3-44c0-a586-e155ff720b7f" >
 
 
 <h1>
@@ -25,8 +25,9 @@ Atualmente ocupo o cargo de Operadora de Autenticação II em uma empresa que at
 
 <h3 align="left">GitHub Stats</h3>
 
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=karinacmartins&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly) 
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=karinacmartins&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly)
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=karinacmartins&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly) <br>
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=karinacmartins&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly) <br>
+![GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=karinacmartins&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly)
 
 <br>
 
