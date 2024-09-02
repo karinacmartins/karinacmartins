@@ -9,7 +9,7 @@ Karina Martins
 
 <p align="justify"> Dev Back-end sou de São Paulo-SP, Brasil, graduando em Gestão da Tecnologia da Informação na Universidade Cruzeiro do Sul. Meu primeiro “Hello World” foi à alguns anos atrás quando tive contato com HTML, CSS e um pouco de JavaScript e Notepad++.
 <br>
-Atualmente ocupo o cargo de Operadora de Autenticação II em uma empresa que atua com prevenção à fraude, pretendo fazer a transição de carreira assim que estiver preparada e surgir uma oportunidade.
+Atualmente ocupo o cargo de Operadora de Autenticação II em uma empresa que atua com prevenção à fraude, pretendo fazer a transição de carreira assim que surgir uma oportunidade.
 <br>
    🌟 Além do código, adoro ler um bom livro, cinema, passeios ao ar livre e aproveitar cada momento da vida. Seja resolvendo um bug persistente ou explorando a natureza, estou sempre pronta para o próximo desafio.</p>
  <p>
