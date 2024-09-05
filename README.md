@@ -7,7 +7,7 @@ Karina Martins
     <span> 👋Olá, universo tech! Pode chamar de Kah! </span>
 </h2>
 
-<p align="justify"> Dev Back-end sou de São Paulo-SP, Brasil, graduando em Gestão da Tecnologia da Informação na Universidade Cruzeiro do Sul. Meu primeiro “Hello World” foi à alguns anos atrás quando tive contato com HTML, CSS e um pouco de JavaScript e Notepad++.
+<p align="justify"> Dev Full Stack sou de São Paulo-SP, Brasil, graduando em Gestão da Tecnologia da Informação na Universidade Cruzeiro do Sul. Meu primeiro “Hello World” foi à alguns anos atrás quando tive contato com HTML, CSS e um pouco de JavaScript e Notepad++.
 <br>
 Atualmente ocupo o cargo de Operadora de Autenticação II em uma empresa que atua com prevenção à fraude, pretendo fazer a transição de carreira assim que surgir uma oportunidade.
 <br>
