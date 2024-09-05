@@ -3,17 +3,23 @@
 
 <h1>
 Karina Martins 
+</h1>
+
 <h2>
     <span> 👋Olá, universo tech! Pode chamar de Kah! </span>
 </h2>
+<p>Desenvolvedora Full Stack</p>
+<p>São Paulo, SP - Brasil</p>
+<p> Graduanda em Gestão da Tecnologia da Informação pela Universidade Cruzeiro do Sul</p>
 
-<p align="justify"> Dev Full Stack sou de São Paulo-SP, Brasil, graduando em Gestão da Tecnologia da Informação na Universidade Cruzeiro do Sul. Meu primeiro “Hello World” foi à alguns anos atrás quando tive contato com HTML, CSS e um pouco de JavaScript e Notepad++.
+
+<p align="justify">Meu primeiro "Hello World" apareceu há alguns anos, quando comecei a brincar com HTML, CSS, e um pouquinho de JavaScript no Notepad++. Foi aí que descobri o quanto a tecnologia me fascina!
+<br> 
+Hoje, trabalho como Operadora de Autenticação II numa empresa que atua com prevenção à fraude, mas meu coração já está batendo forte para mergulhar de cabeça no mundo do desenvolvimento.
 <br>
-Atualmente ocupo o cargo de Operadora de Autenticação II em uma empresa que atua com prevenção à fraude, pretendo fazer a transição de carreira assim que surgir uma oportunidade.
-<br>
-   🌟 Além do código, adoro ler um bom livro, cinema, passeios ao ar livre e aproveitar cada momento da vida. Seja resolvendo um bug persistente ou explorando a natureza, estou sempre pronta para o próximo desafio.</p>
+Além desse universo tech, sou fã de livros, filmes, passeios ao ar livre e adoro curtir cada momento. Seja desvendando um bug persistente ou caminhando na natureza, sempre estou pronta para o próximo desafio.</p>
  <p>
-    📬 Vamos construir algo incrível? E juntos criar um impacto positivo por meio da tecnologia e da inovação!
+ Bora criar algo incrível? Vamos usar a tecnologia para fazer a diferença e transformar o mundo de maneira positiva!
 <p>
  
 
@@ -26,8 +32,9 @@ Atualmente ocupo o cargo de Operadora de Autenticação II em uma empresa que at
 <h3 align="left">GitHub Stats</h3>
 
 ![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=karinacmartins&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly) <br>
+
 ![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=karinacmartins&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly) <br>
-![GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=karinacmartins&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly)
+
 
 <br>
 
