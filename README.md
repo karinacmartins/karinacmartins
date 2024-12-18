@@ -1,7 +1,7 @@
 <img align="right" height="380"  src="imagem.png" >
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF00F6&background=000000&center=true&vCenter=true&width=435&lines=%F0%9F%91%8BOl%C3%A1%2C+universo+tech!;Pode+me+chamar+de+Kah!;Visite+meu+portf%C3%B3lio." alt="Typing animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF00F6&background=000000&center=true&vCenter=true&width=450&lines=%F0%9F%91%8BOl%C3%A1%2C+universo+tech!;Pode+me+chamar+de+Kah!;Visite+meu+portf%C3%B3lio." alt="Typing animation">
 </h2>
 
 <p>Desenvolvedora Full Stack</p>
@@ -14,9 +14,11 @@
 Atualmente, trabalho como Operadora de Autenticação II em uma empresa que atua com prevenção à fraude, mas estou pronta para dar o próximo passo e migrar para o mundo do desenvolvimento, onde meu coração já bate mais forte!
 <br>
 Além desse universo tech, sou fã de livros, filmes, passeios ao ar livre e adoro curtir cada momento. Seja desvendando um bug persistente ou caminhando na natureza, sempre estou pronta para o próximo desafio.</p>
- <p>
- Bora criar algo incrível? Vamos usar a tecnologia para fazer a diferença e transformar o mundo de maneira positiva!
-<p>
+
+Confira meu <a href="https://portfolio-pessoal-mocha.vercel.app/" target="_blank">portfólio</a> e veja meus projetos.
+
+Bora criar algo incrível? Vamos usar a tecnologia para fazer a diferença e transformar o mundo de maneira positiva!
+</p>
  
 ---
 
@@ -28,6 +30,9 @@ Além desse universo tech, sou fã de livros, filmes, passeios ao ar livre e ado
   </a>
   <a href="https://www.instagram.com/karinamartins_eu/">
     <img src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF" alt="Instagram">
+  </a>
+  <a href="https://www.youtube.com/@devkamartins">
+    <img src="https://img.shields.io/badge/-YouTube-000?style=for-the-badge&logo=youtube&logoColor=FF00F6&color:FFF" alt="YouTube">
   </a>
 </p>
 
