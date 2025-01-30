@@ -15,7 +15,7 @@ Atualmente, trabalho como Operadora de Autenticação II em uma empresa que atua
 <br>
 Além desse universo tech, sou fã de livros, filmes, passeios ao ar livre e adoro curtir cada momento. Seja desvendando um bug persistente ou caminhando na natureza, sempre estou pronta para o próximo desafio.</p>
 
-Confira meu <a href="https://portfolio-pessoal-mocha.vercel.app/" target="_blank">portfólio</a> e veja meus projetos.
+Confira meu <a href="https://karina-martins.vercel.app/" target="_blank">portfólio</a> e veja meus projetos.
 
 Bora criar algo incrível? Vamos usar a tecnologia para fazer a diferença e transformar o mundo de maneira positiva!
 </p>
