@@ -4,21 +4,16 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF00F6&background=000000&center=true&vCenter=true&width=450&lines=%F0%9F%91%8BOl%C3%A1%2C+universo+tech!;Pode+me+chamar+de+Kah!;Visite+meu+portf%C3%B3lio." alt="Typing animation">
 </h2>
 
-<p>Desenvolvedora Full Stack</p>
-<p>São Paulo, SP - Brasil</p>
-<p> Formada em Gestão da Tecnologia da Informação pela Universidade Cruzeiro do Sul</p>
+<p align="justify">
+  Tecnologia sempre fez parte do meu universo — desde cedo, eu já queria entender como tudo funcionava por trás das telas. Mesmo antes de entrar oficialmente na área, explorava o digital com curiosidade e autonomia. Mas foi no meu atual trabalho com análises antifraude que esse interesse ganhou rumo: mergulhei de vez em HTML, lógica de programação, frameworks... e percebi que a tecnologia não era só uma opção — era o meu caminho.
+  <br><br>
+  Hoje estou em transição para o desenvolvimento, trazendo um olhar técnico e analítico bem alinhado com os desafios da área. Estou concluindo minha graduação em Gestão de TI e prestes a começar uma pós em Desenvolvimento Full Stack, aprofundando meus estudos em React, Node.js, Java e outras ferramentas que me ajudam a tirar ideias do papel.
+  <br><br>
+  Gosto de construir com propósito. Me envolvo de verdade quando o desafio exige ir além do óbvio, resolver com clareza e criar experiências que respeitam o usuário. Meu foco é desenvolver soluções que conectem pessoas à tecnologia de forma eficiente, humana e estratégica.
+  <br><br>
 
-
-<p align="justify">Meu primeiro "Hello World" apareceu há alguns anos, quando comecei a brincar com HTML, CSS, e um pouquinho de JavaScript. Foi aí que descobri o quanto a tecnologia me fascina!
-<br> 
-Atualmente, trabalho como Operadora de Autenticação II em uma empresa que atua com prevenção à fraude, mas estou pronta para dar o próximo passo e migrar para o mundo do desenvolvimento, onde meu coração já bate mais forte!
-<br>
-Além desse universo tech, sou fã de livros, filmes, passeios ao ar livre e adoro curtir cada momento. Seja desvendando um bug persistente ou caminhando na natureza, sempre estou pronta para o próximo desafio.</p>
-
-Confira meu <a href="https://karina-martins.vercel.app/" target="_blank">portfólio</a> e veja meus projetos.
-
-Bora criar algo incrível? Vamos usar a tecnologia para fazer a diferença e transformar o mundo de maneira positiva!
 </p>
+
  
 ---
 
@@ -26,12 +21,12 @@ Bora criar algo incrível? Vamos usar a tecnologia para fazer a diferença e tra
 
 <p align="center">
   <a href="https://www.linkedin.com/in/karinacmartins/">
-    <img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF" alt="LinkedIn">
-  </a>
+    <img src="https://img.shields.io/badge/Linkedin-000?style=for-the-badge&logo=logmein&logoColor=FF00F6" alt="LinkedIn">
+  </a>&nbsp;
   <a href="https://www.instagram.com/karinamartins_eu/">
     <img src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF" alt="Instagram">
-  </a>
-  <a href="https://www.youtube.com/@devkamartins">
+  </a>&nbsp;
+  <a href="https://www.youtube.com/@code_ka">
     <img src="https://img.shields.io/badge/-YouTube-000?style=for-the-badge&logo=youtube&logoColor=FF00F6&color:FFF" alt="YouTube">
   </a>
 </p>
@@ -63,49 +58,52 @@ Bora criar algo incrível? Vamos usar a tecnologia para fazer a diferença e tra
 ---
 
 <h3 align="center">Minhas Habilidades</h3>
-<p align="center">
-  <!-- Linguagens -->
+
+<h5 align="center">Linguagens</h5>
+<p align="center">  
   <img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=FF5733" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3">
   <img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=007396" alt="Java">
   <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python">
+  <img src="https://img.shields.io/badge/Dart-000?style=for-the-badge&logo=dart&logoColor=0175C2" alt="Dart">
+</p>
 
-
-  <p align="center">
-  <!-- Frameworks e Bibliotecas -->
+<h5 align="center">Frameworks e Bibliotecas</h5>
+<p align="center">
   <img src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js&logoColor=339933" alt="Node.js">
+  <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=FFFFFF" alt="Next.js">
   <img src="https://img.shields.io/badge/Svelte-000?style=for-the-badge&logo=svelte&logoColor=FF3E00" alt="Svelte">
   <img src="https://img.shields.io/badge/TailwindCSS-000?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="TailwindCSS">
-  </p>
-  
-  <p align="center">
-  <!-- Ferramentas e APIs -->
+  <img src="https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=bootstrap&logoColor=7952B3" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/Flutter-000?style=for-the-badge&logo=flutter&logoColor=02569B" alt="Flutter">
+</p>
+
+<h5 align="center">Ferramentas e APIs</h5>
+<p align="center">
   <img src="https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB">
   <img src="https://img.shields.io/badge/Postman-000?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="Postman">
+  <img src="https://img.shields.io/badge/Axios-000?style=for-the-badge&logo=axios&logoColor=5A29E4" alt="Axios">
   <img src="https://img.shields.io/badge/API-000?style=for-the-badge&logo=fastapi&logoColor=009688" alt="API">
   <img src="https://img.shields.io/badge/JSON-000?style=for-the-badge&logo=json&logoColor=FF3E00" alt="JSON">
-  </p>
-  
-  <p align="center">
-  <!-- Design e Organização -->
+  <img src="https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase&logoColor=FFCA28" alt="Firebase">
+</p>
+
+<h5 align="center">Design e Organização</h5>
+<p align="center">
   <img src="https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma">
   <img src="https://img.shields.io/badge/Canva-000?style=for-the-badge&logo=canva&logoColor=00C4CC" alt="Canva">
   <img src="https://img.shields.io/badge/Jira-000?style=for-the-badge&logo=jira&logoColor=0052CC" alt="Jira">
   <img src="https://img.shields.io/badge/Notion-000?style=for-the-badge&logo=notion&logoColor=FFFFFF" alt="Notion">
-  </p>
-  
-  <p align="center">
-  <!-- Controle de Versão e Implantação -->
+</p>
+
+<h5 align="center">Controle de Versão e Implantação</h5>
+<p align="center">
   <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=F05032" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub">
   <img src="https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=FFFFFF" alt="Vercel">
   <img src="https://img.shields.io/badge/Netlify-000?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Netlify">
-  </p>
-  
-  <p align="center">
-  <!-- IDE e Cloud -->
-  <img src="https://img.shields.io/badge/VSCode-000?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" alt="VSCode">
-  <img src="https://img.shields.io/badge/Google_Cloud-000?style=for-the-badge&logo=google-cloud&logoColor=4285F4" alt="Google Cloud">
 </p>
 
 ---
