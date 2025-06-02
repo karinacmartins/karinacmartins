@@ -2,20 +2,22 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=5E29A4&center=true&vCenter=true&width=450&lines=%F0%9F%91%8BOl%C3%A1%2C+universo+tech!;Pode+me+chamar+de+Kah!;Desenvolvedora+Full+Stack." alt="Typing animation">
 </h2>
 
-<img align="right" height="380" src="avatar1.png" style="margin:20px" >
+<img align="right" height="380" src="avatar1.png" style="margin:20px">
 
 <p>Desenvolvedora Full Stack</p>
 <p>São Paulo, SP - Brasil</p>
-<p> Formada em Gestão da Tecnologia da Informação pela Universidade Cruzeiro do Sul</p>
+<p>Formada em Gestão da Tecnologia da Informação pela Universidade Cruzeiro do Sul</p>
 
-<p align="justify">Meu primeiro "Hello World" apareceu há alguns anos, quando comecei a brincar com HTML, CSS, e um pouquinho de JavaScript. Foi aí que descobri o quanto a tecnologia me fascina!
-<br> 
-Gosto de desafios que me tiram da zona de conforto e de projetos que exigem mais do que seguir fórmulas prontas — que exigem pensamento estratégico, inovação e criatividade.
-<br>
-Meu objetivo? Construir soluções que não apenas funcionem, mas que comuniquem, conectem e respeitem — com clareza, propósito e um olhar que entende pessoas, não só sistemas.
-<br>
-Estou sempre em busca de novos aprendizados e acredito que a evolução constante é o que move a tecnologia e as pessoas.</p>
- 
+<p align="justify">
+  Meu primeiro "Hello World" apareceu há alguns anos, quando comecei a brincar com HTML, CSS, e um pouquinho de JavaScript. Foi aí que descobri o quanto a tecnologia me fascina!
+  <br>
+  Gosto de desafios que me tiram da zona de conforto e de projetos que exigem mais do que seguir fórmulas prontas — que exigem pensamento estratégico, inovação e criatividade.
+  <br>
+  Meu objetivo? Construir soluções que não apenas funcionem, mas que comuniquem, conectem e respeitem — com clareza, propósito e um olhar que entende pessoas, não só sistemas.
+  <br>
+  Estou sempre em busca de novos aprendizados e acredito que a evolução constante é o que move a tecnologia e as pessoas.
+</p>
+
 ---
 
 <h3 align="center">Conecte-se comigo</h3>
@@ -54,6 +56,23 @@ Estou sempre em busca de novos aprendizados e acredito que a evolução constant
 <p align="center">
   <!-- GitHub Trophy -->
   <img src="https://github-profile-trophy.vercel.app/?username=karinacmartins&theme=dracula&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies">
+</p>
+
+
+<h3 align="center">🕒 WakaTime coding activit</h3>  
+    
+  <p align="center">
+   📅 From Apr 8 2025
+  </p>  
+
+<p align="center">
+     <img 
+      src="https://github-readme-stats.vercel.app/api/wakatime?username=karinacmartins&layout=compact&bg_color=000000&title_color=5E29A4&text_color=FFFFFF&hide_border=true" 
+    alt="WakaTime Stats"
+    /><br>    
+    <a href="https://wakatime.com/@6fa06621-05c8-4e63-90d0-c582757b38a3">
+    <img src="https://wakatime.com/badge/user/6fa06621-05c8-4e63-90d0-c582757b38a3.svg" alt="Total time coded since Apr 8 2025" />
+    </a>      
 </p>
 
 ---
@@ -109,8 +128,8 @@ Estou sempre em busca de novos aprendizados e acredito que a evolução constant
 
 ---
 
-
-  <div align="right">
-   <img src="https://pageview.vercel.app/?github_user=karinacmartins" alt="Visualizações do Perfil">
-  
-  Made with 💜 by <a href="https://github.com/karinacmartins">KM</a>.</div>
+<div align="right">
+  <img src="https://pageview.vercel.app/?github_user=karinacmartins" alt="Visualizações do Perfil">
+  <br>
+  Made with 💜 by <a href="https://github.com/karinacmartins">KM</a>.
+</div>
