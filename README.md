@@ -8,16 +8,16 @@
 <p>São Paulo, SP - Brasil</p>
 <p> Formada em Gestão da Tecnologia da Informação pela Universidade Cruzeiro do Sul</p>
 
+
 <p align="justify">Meu primeiro "Hello World" apareceu há alguns anos, quando comecei a brincar com HTML, CSS, e um pouquinho de JavaScript. Foi aí que descobri o quanto a tecnologia me fascina!
 <br> 
-Gosto de desafios que me tiram da zona de conforto e de projetos que exigem mais do que seguir fórmulas prontas — que exigem pensamento estratégico, inovação e criatividade.
+Atualmente, trabalho como Operadora de Autenticação II em uma empresa que atua com prevenção à fraude, mas estou pronta para dar o próximo passo e migrar para o mundo do desenvolvimento, onde meu coração já bate mais forte!
 <br>
-Meu objetivo? Construir soluções que não apenas funcionem, mas que comuniquem, conectem e respeitem — com clareza, propósito e um olhar que entende pessoas, não só sistemas.
-<br>
-Estou sempre em busca de novos aprendizados e acredito que a evolução constante é o que move a tecnologia e as pessoas.</p>
+Além desse universo tech, sou fã de livros, filmes, passeios ao ar livre e adoro curtir cada momento. Seja desvendando um bug persistente ou caminhando na natureza, sempre estou pronta para o próximo desafio.</p>
 
+Confira meu <a href="https://portfolio-pessoal-mocha.vercel.app/" target="_blank">portfólio</a> e veja meus projetos.
 
-
+Bora criar algo incrível? Vamos usar a tecnologia para fazer a diferença e transformar o mundo de maneira positiva!
 </p>
  
 ---
@@ -26,13 +26,13 @@ Estou sempre em busca de novos aprendizados e acredito que a evolução constant
 
 <p align="center">
   <a href="https://www.linkedin.com/in/karinacmartins/">
-    <img src="https://img.shields.io/badge/Linkedin-000?style=for-the-badge&logo=logmein&logoColor=5E29A4" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF" alt="LinkedIn">
   </a>
   <a href="https://www.instagram.com/karinamartins_eu/">
-    <img src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=5E29A4&color:FFF" alt="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF" alt="Instagram">
   </a>
   <a href="https://www.youtube.com/@devkamartins">
-    <img src="https://img.shields.io/badge/-YouTube-000?style=for-the-badge&logo=youtube&logoColor=5E29A4&color:FFF" alt="YouTube">
+    <img src="https://img.shields.io/badge/-YouTube-000?style=for-the-badge&logo=youtube&logoColor=FF00F6&color:FFF" alt="YouTube">
   </a>
 </p>
 
