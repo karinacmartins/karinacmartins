@@ -128,8 +128,9 @@
 
 ---
 
+
 <div align="right">
-  <img src="https://pageview.vercel.app/?github_user=karinacmartins" alt="Visualizações do Perfil">
+  <!-- <img src="https://pageview.vercel.app/?github_user=karinacmartins" alt="Visualizações do Perfil"> -->
   <br>
   Made with 💜 by <a href="https://github.com/karinacmartins">KM</a>.
 </div>
