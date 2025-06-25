@@ -43,7 +43,7 @@
     <tr>
       <!-- GitHub Status -->
       <td>
-        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=karinacmartins&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=30&hide=issues&bg_color=000&title_color=5E29A4&text_color=FFF&border_radius=3&border_color=36123c&icon_color=5E29A4&theme=jolly" alt="GitHub Stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=karinacmartins&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=30&hide=issues&bg_color=000&title_color=5E29A4&text_color=FFF&border_radius=3&border_color=36123c&icon_color=5E29A4&theme=jolly" alt="GitHub Stats">
       </td>
       <!-- Top Languages -->
       <td>
